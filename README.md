@@ -1,6 +1,6 @@
 # 🚀 Jawad Rashid - Data Analyst & Software Engineer
 
-![Profile Banner](https://example.com/banner) <!-- You can add a custom banner image by replacing the URL -->
+
 
 > “Technology is best when it brings people together.” – Matt Mullenweg
 
