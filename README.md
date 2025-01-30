@@ -69,14 +69,14 @@ Welcome to my GitHub space! I’m **Jawad Rashid**, a forward-thinking **Data An
 <p align="center">
   <a href="mailto:jawad.rashid@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jawadra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jawadrashid.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://rashidjawad.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 💪 **Fitness Enthusiast**: My bench press PR is **155 lbs** and deadlift PR is **315 lbs**.
+- 💪 **Fitness Enthusiast**: My bench press PR is **165 lbs** and deadlift PR is **315 lbs**.
 - 🍽️ Proud owner of **Culinary Crave**, a family restaurant.
 - 🧑‍🎨 I love blending **technology and creativity** to build solutions that impact lives.
 
