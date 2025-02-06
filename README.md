@@ -59,8 +59,7 @@ Welcome to my GitHub space! I’m **Jawad Rashid**, a forward-thinking **Data An
 ## 🏆 Achievements & Certifications
 
 - 🌟 **Microsoft PL-300 (Power BI Data Analyst)** – *In Progress*
-- 🏅 **Google Data Analytics Professional Certificate**
-- 🧠 **IBM Python for Data Science Certificate**
+
 
 ---
 
