@@ -75,7 +75,7 @@ Welcome to my GitHub space! I’m **Jawad Rashid**, a forward-thinking **Data An
 
 ## ⚡ Fun Facts
 
-- 💪 **Fitness Enthusiast**: My bench press PR is **165 lbs** and deadlift PR is **315 lbs**.
+- 💪 **Fitness Enthusiast**: My bench press PR is **185 lbs** and deadlift PR is **315 lbs**.
 - 🍽️ Proud owner of **Culinary Crave**, a family restaurant.
 - 🧑‍🎨 I love blending **technology and creativity** to build solutions that impact lives.
 
